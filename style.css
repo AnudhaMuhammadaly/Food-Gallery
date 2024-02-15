@@ -1,0 +1,105 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+h1,nav{
+    background-color: #eee2e2a7;
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+    gap: 15px;
+}
+ 
+
+/* #banner{
+    background-image: url("https://media.istockphoto.com/id/1042321668/photo/italian-pizza-and-pizza-cooking-ingredients-on-black-concrete-background.webp?b=1&s=170667a&w=0&k=20&c=Env0p3vGOj5UM4HvRF_81ZK87Ug8Cd6_IecmFYWMjt8=");
+   width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.overlay{
+   position: absolute;
+   top: 180px;
+   left: 900px;
+   color: white;
+   font-size: 40px;
+   font-weight: bolder;
+  text-shadow: 3px 4px 5px black;
+    } */
+    img{
+        width: 200px;
+        height: 200px;
+        border-radius: 170px;
+        margin: 43px;
+    }
+    .row{
+        display: flex;
+        background-color: #eee2e2a7;
+     height: 340px;
+        }
+        h3{
+            margin-top: 0%;
+            text-align: center;
+           
+        }
+        
+.row2,.row3{
+    background-color: #eee2e2a7;
+    display: flex;
+    padding: 40px;
+    justify-content: space-between;}
+    .col{
+        border-radius: 10px;
+        padding: 5px;
+        box-shadow: 2px 4px 6px black;
+    }
+    h4,h5,h6{
+        text-align: center;
+    }
+   .btn{
+         padding: 5px;
+         margin-left: 130px;
+         border-radius: 10px;
+         color: black;
+         
+         
+   }
+   .btn a{
+    text-decoration: none;
+   }
+   
+    .row2 .col a img{
+        height: 250px;
+        width: 240px;
+        border-radius: 10px;
+    }
+    .row3 .col a img{
+        height: 250px;
+        width: 240px;
+        border-radius: 10px;
+    }
+    .ftrdiv{
+        height: 100px;
+        background-color: black;
+        color: white;
+         text-align: center;
+    }
+    .col :hover{
+        transform: scale(1.1);
+    }
+    
+   
+    
+
+
+
+        
+
+
+   
+
+   
+   
+
